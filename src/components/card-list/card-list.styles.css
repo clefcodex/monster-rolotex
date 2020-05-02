@@ -1,0 +1,16 @@
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.waiting {
+	color: red;
+	border: 0.3px solid black;
+	padding: 40px;
+	width: 80%;
+	margin: 120px;
+	border-radius: 10px;
+}
